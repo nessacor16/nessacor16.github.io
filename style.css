@@ -1,0 +1,15 @@
+/*css */
+
+header {
+    background: rgb(209, 144, 209);
+    text-align: center;
+    font-style: oblique;
+    padding: 50px;
+    font-size: 30px;
+}
+
+img {
+    margin-top: 10px;
+    rotate: 180deg;
+    motion-rotation: 50% 50%;
+}
